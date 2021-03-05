@@ -1,0 +1,106 @@
+body {
+    font-family: "Helvetica";
+}
+
+li {
+    list-style: none;
+}
+
+.header {
+    background-color: #46A0D6;
+    color: #fff;
+    height: 90px;
+}
+
+.header-logo {
+    float: left;
+    font-size: 36px;
+    padding: 20px 40px;
+}
+
+.header-list li {
+    float: left;
+    padding: 33px 20px;
+}
+
+.main {
+    padding: 100px 80px;
+}
+
+.header-main {
+    background-color: #F4ECDD;
+    height: 400px;
+    padding: 100px 200px;
+}
+
+.photo {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.copy-container h2 {
+    font-size: 60px;
+}
+
+.copy-container span {
+    color: #ff4a4a;
+}
+
+.contents {
+    height: 500px;
+    margin: 200px;
+}
+
+.section-title {
+    border-bottom: 2px solid #dee7ec;
+    font-size: 40px;
+    padding-bottom: 15px;
+    margin-bottom: 50px;
+}
+
+.paragraf {
+    margin-top: 75px;
+    font-size: 20px;
+}
+
+.contact-form {
+    padding-top: 100px;
+}
+
+input,
+textarea {
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    font-size: 18px;
+    border: 1px solid #dee7ec;
+}
+
+.direct {
+    background-color: #BFC8FA;
+    color: #46A0D6;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.footer {
+    background-color: #002F3B;
+    color: #fff;
+    height: 120px;
+    padding: 40px;
+}
+
+.footer-logo {
+    float: left;
+    font-size: 32px;
+}
+
+.footer-list {
+    float: right;
+}
+
+.footer-list li {
+    padding-bottom: 20px;
+}
